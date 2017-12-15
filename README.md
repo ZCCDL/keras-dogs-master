@@ -1,4 +1,3 @@
-# keras-dogs-master
 # Fine grain Dog Classification held by Baidu
 
 > author: [cweihang](https://github.com/ahangchen)
